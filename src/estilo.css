@@ -8,8 +8,7 @@ body{
   width: 1200;
   margin-right: auto;
   margin-left: auto;
-  
-  
+  background-color:rgb(218, 203, 203);
 }
 
 header{
@@ -84,4 +83,8 @@ nav ul li:hover {
   display: flex;
   justify-content: space-evenly;
   text-align: center;
+}
+
+.team_individual{
+  background-color: rgb(109, 170, 231);
 }
